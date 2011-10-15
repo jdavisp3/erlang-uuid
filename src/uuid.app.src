@@ -1,0 +1,6 @@
+{application, uuid, [
+    {description, "Erlang UUID Library"},
+    {vsn, "0.1.0"},
+    {modules, []},
+    {registered, []}
+]}.
